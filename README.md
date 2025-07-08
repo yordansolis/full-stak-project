@@ -1,1 +1,1 @@
-# full-stak-project
+# full-stack-project
